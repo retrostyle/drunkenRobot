@@ -1,4 +1,4 @@
-package com.sonoxo.urlcheck;
+package de.devch.drunkenRobot;
 
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
